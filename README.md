@@ -14,6 +14,8 @@ Atualmente, busco desenvolver minhas competências técnicas por meio de estudos
 
 Portfólio digital de um projeto artístico desenvolvido como Trabalho de Conclusão de Curso em Artes Visuais no IFPE — Campus Olinda. O projeto conecta arte, tecnologia e desenvolvimento web.
 
+- **Planejamento do desenvolvimento:** [Máquinas Orgânicas — GitHub Projects](https://github.com/users/duardoguimaraes/projects/1)
+
 - **Tecnologias:** HTML5 e CSS3.
 - **Práticas:** estruturação semântica, estilização, responsividade, organização de conteúdo e documentação técnica.
 - **Destaque:** integração entre repertório artístico, comunicação visual e desenvolvimento de uma página web.
